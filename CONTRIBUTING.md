@@ -6,8 +6,8 @@ We welcome contributions from everyone! By participating in this project, you ag
 
 Here are a few ways you can contribute to this project:
 
-* **Report Bugs:** If you find a bug, please [open an issue](https://github.com/your-username/your-repository-name/issues/new?assignees=&labels=bug&template=bug_report.md&title=Bug%20report%3A%20) with clear steps to reproduce it.
-* **Suggest Enhancements:** Have an idea for a new feature or improvement? Feel free to [open an issue](https://github.com/your-username/your-repository-name/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=Feature%20request%3A%20) to discuss it.
+* **Report Bugs:** If you find a bug, please [open an issue](https://github.com/Naema1962/my-final-project/issues/new?assignees=&labels=bug&template=bug_report.md&title=Bug%20report%3A%20) with clear steps to reproduce it.
+* **Suggest Enhancements:** Have an idea for a new feature or improvement? Feel free to [open an issue](https://github.com/Naema1962/my-final-project/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=Feature%20request%3A%20) to discuss it.
 * **Submit Pull Requests:** If you've fixed a bug or implemented a new feature, you can submit a pull request.
 
 ## Pull Request Process
@@ -15,7 +15,7 @@ Here are a few ways you can contribute to this project:
 1.  **Fork the repository** on GitHub.
 2.  **Clone your fork** to your local machine:
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone [https://github.com/Naema1962/my-final-project.git](https://github.com/Naema1962/my-final-project.git)
     ```
     (Replace with your fork's URL)
 3.  **Create a new branch** for your changes:
